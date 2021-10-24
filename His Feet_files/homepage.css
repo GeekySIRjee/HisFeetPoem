@@ -1,9 +1,14 @@
-h1{
+h1{ font-family:courier;
     color:blue;
     text-align:center;
 }
 
-p{
+h2{font-family:courier;
+text-align:center;}
+
+pre{
     color:violet;
     text-align:center;
+    font-family:courier;
+    font-size:23px;
 }
